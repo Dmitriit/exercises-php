@@ -37,7 +37,7 @@ theory: |
   ```php
   <?php
 
-  $who = "dragon's" . 'mother';
+  $who = "dragon's " . 'mother';
   print_r($who);
   ```
 
